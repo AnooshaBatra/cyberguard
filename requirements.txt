@@ -1,0 +1,10 @@
+Flask
+Flask-Restful
+uwsgi
+request
+jsonify
+pickle
+pandas
+numpy
+nltk
+tweepy
