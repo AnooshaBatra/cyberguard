@@ -1,6 +1,6 @@
 Flask
 Flask-Restful
-uwsgi
+gunicorn
 request
 jsonify
 pandas
