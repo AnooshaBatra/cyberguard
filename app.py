@@ -42,7 +42,7 @@ def predict(data):
 	
  @app.route("/")
 def index():
-    return "Welcome to machine learning model APIs!"
+    return "Welcome to machine learning model APIs! Cyberguard"
 
 if __name__ == '__main__':
 	try:
